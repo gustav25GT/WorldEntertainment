@@ -1,0 +1,6 @@
+* {
+    box-sizing: border-box;
+}
+.card-main {
+    background-color: coral;
+}
